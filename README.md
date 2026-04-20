@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Focus-Backend_&_Game_Dev-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/University-Adana_Alparslan_Türkeş-red?style=flat-square">
+  <img src="https://img.shields.io/badge/University-Adana_Science_and_Technology -red?style=flat-square">
   <img src="https://img.shields.io/badge/Status-3rd_Year_Student-green?style=flat-square">
 </p>
 
@@ -75,4 +75,4 @@ A published mobile game focusing on fast-paced mechanics and optimized physics.
 ---
 
 ## 📫 Let's Connect
-[Portfolio (Itch.io)](https://itch.io/profile/hsynay) | [LinkedIn](www.linkedin.com/in/hüseyin-ay01) | [Email](mailto:huseyin_1153@hotmail.com)
+[Portfolio (Itch.io)](https://itch.io/profile/hsynay) | [LinkedIn](https://www.linkedin.com/in/hüseyin-ay01) | [Email](mailto:huseyin_1153@hotmail.com)
