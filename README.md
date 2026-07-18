@@ -1,67 +1,63 @@
-<h1 align="center">Hi 👋 I'm Hüseyin Ay</h1>
+<h1 align="center">Hi 👋, I'm Hüseyin Ay</h1>
 
 <p align="center">
-  🚀 <b>Computer Engineering Student | Backend & Game Developer</b>
+  <b>Computer Engineering Student · Backend & Game Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Focus-Backend_&_Game_Dev-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/University-Adana_Science_and_Technology -red?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-3rd_Year_Student-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Game_Dev-blue?style=flat-square" alt="Focus badge">
+  <img src="https://img.shields.io/badge/University-ATU-red?style=flat-square" alt="University badge">
+  <img src="https://img.shields.io/badge/Status-4th_Year_Student-green?style=flat-square" alt="Status badge">
 </p>
 
----
+<br>
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Engineering** student at **Adana Alparslan Türkeş Science and Technology University**. My passion lies in building scalable **backend systems** and creating immersive **Game Development** experiences. I treat AI as a powerful accelerator for software engineering, not a substitute for logic.
+I'm a Computer Engineering student at **Adana Alparslan Türkeş Science and Technology University**, focused on building scalable backend systems and immersive game development experiences. I treat AI as an accelerator for software engineering — not a substitute for engineering judgment.
 
-- 📍 Based in **Adana, Turkey**
-- 🏛️ **Founding Member** of **ATÜ Video Oyun Tasarım Topluluğu (ATÜ VOT)**
+- 📍 Based in Adana, Turkey
+- 🏛️ Founding member of **ATÜ Video Oyun Tasarım Topluluğu (ATÜ VOT)**
 - 🎮 Published **Shape Runner** on the Google Play Store
-- 🕹️ Active participant in **Global Game Jam (GGJ) 2026**
-- 🧠 Focused on **Backend Architecture**, **API Integrations**, and **Game Physics**
+- 🕹️ Participant, **Global Game Jam (GGJ) 2026**
+- 🧠 Interests: backend architecture, API integrations, and game physics
 
----
+<br>
 
 ## 💡 Tech Stack
 
-### 💻 Languages & Core
+**Languages**
+
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
-### 🚀 Frameworks & Tools
+**Frameworks & Tools**
+
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
----
+<br>
 
 ## 🚧 Featured Projects
 
-### 🏗️ Construction Accounting Web App
-A full-featured project management system for tracking payments and expenses.
-- **Backend:** Flask & SQL Server.
-- **Features:** Role-based access control, complex filtering, and dynamic dashboards.
+**🏗️ Construction ERP / Accounting System** — `Flask · PostgreSQL`
+Backend system for a construction company managing income/expenses, customer debts, installment schedules, and check tracking, with role-based access control and reporting dashboards.
 
-### 🎮 Shape Runner (Play Store)
-A published mobile game focusing on fast-paced mechanics and optimized physics.
-- **Engine:** Unity & C#.
-- **Focus:** Complete deployment lifecycle, UI/UX design, and object pooling.
+**🎮 Shape Runner** (Google Play) — `Unity · C#`
+Published mobile game with fast-paced mechanics, optimized physics, and object pooling.
 
-### 🧩 Puzzle & Physics Mechanic Exploration
-- Implementing complex logic for dynamic puzzle elements in Unity.
-- Focus on collision detection and fluid object interactions.
+**🧩 Puzzle & Physics Prototypes** — `Unity` — Collision detection and puzzle-mechanic experiments.
 
-### 🅿️ Parking Lot Management
-- Smart system for managing slots, user logins, and payments using **Flask + SQLite**.
+**🅿️ Parking Lot Management** — `Flask · SQLite` — Slot tracking, user logins, and payment handling.
 
----
+<br>
 
 ## 📈 GitHub Stats
 
@@ -72,7 +68,8 @@ A published mobile game focusing on fast-paced mechanics and optimized physics.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsynay&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
----
+<br>
 
 ## 📫 Let's Connect
-[Portfolio (Itch.io)](https://itch.io/profile/hsynay) | [LinkedIn](https://www.linkedin.com/in/hüseyin-ay01) | [Email](mailto:huseyin_1153@hotmail.com)
+
+[Portfolio (Itch.io)](https://itch.io/profile/hsynay) | [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-ay01) | [Email](mailto:huseyin_1153@hotmail.com)
